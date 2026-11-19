@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Planner"
+  short_description: "Turn a rough task list into a realistic day plan"
+  default_prompt: "Use $daily-planner to turn my tasks into a realistic plan for today."
